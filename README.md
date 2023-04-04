@@ -1,5 +1,5 @@
 # Description
-Turn ON/OFF the display of your Android phone, like scrcpy, using ADB Shell.
+Turn ON/OFF the display of your Android phone, like scrcpy, using ADB Shell or Root.
 
 Check **[Reddit Tasker](https://www.reddit.com/r/tasker/comments/12bcdnj/project_share_turn_display_onoff_dont_disturb/)** for Tasker users.
 
@@ -116,3 +116,9 @@ In an ADB Shell (from Termux or PC) type:-
 #### Note:-
 
 In Termux if you are rooted, you can just replace every `adb shell` with `su -c`.
+
+# Credits
+
+**[rom1v](https://blog.rom1v.com/2018/03/introducing-scrcpy/#run-a-java-main-on-android) - Method to make java code executable**
+
+**[CheerfulPianissimo](https://github.com/Genymobile/scrcpy/issues/2888#issuecomment-1452140829) - Java code to make this possible**
