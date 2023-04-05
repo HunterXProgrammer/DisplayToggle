@@ -105,11 +105,11 @@ In an ADB Shell (from Termux or PC):-
 
 #### To Turn  Display OFF
 
-    adb shell CLASSPATH=/data/local/tmp/DisplayToggle.dex app_process / DisplayToggle 0
+    adb shell CLASSPATH=/storage/emulated/0/DisplayToggle.dex app_process / DisplayToggle 0
 
 #### To Turn  Display ON
 
-    adb shell CLASSPATH=/data/local/tmp/DisplayToggle.dex app_process / DisplayToggle 2
+    adb shell CLASSPATH=/storage/emulated/0/DisplayToggle.dex app_process / DisplayToggle 2
 
 #### Note:-
 
