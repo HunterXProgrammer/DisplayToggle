@@ -101,7 +101,7 @@ Now copy it to internal storage to use it later.
 
 # How To Use It
 
-In an ADB Shell (from Termux or PC) type:-
+In an ADB Shell (from Termux or PC):-
 
 #### To Turn  Display OFF
 
