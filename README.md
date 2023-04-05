@@ -103,8 +103,6 @@ Now copy it to internal storage to use it later.
 
 In an ADB Shell (from Termux or PC) type:-
 
-    adb shell cp -f /storage/emulated/0/DisplayToggle.dex /data/local/tmp
-
 #### To Turn  Display OFF
 
     adb shell CLASSPATH=/data/local/tmp/DisplayToggle.dex app_process / DisplayToggle 0
